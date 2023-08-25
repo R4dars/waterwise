@@ -20,3 +20,6 @@ O WaterWise é o aplicativo que vai ter ajudar a manter hidratado, será um apli
 5-GreenDAO</br>
 6-Menu</br>
 7-Service</br>
+
+## Ilustração 👀
+<img src="https://github.com/R4dars/waterwise/blob/main/mockupWW.jpg"/>
