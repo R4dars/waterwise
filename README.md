@@ -7,6 +7,7 @@ O WaterWise é o aplicativo que vai ter ajudar a manter hidratado, será um apli
 -Registre facilmente a quantidade de água consumida de cada vez.</br>
 -Acompanhe seu histórico de hidratação em gráficos simples de entender.</br>
 -Personalize as configurações para se adequar ao seu estilo de vida.</br>
+-Você tambem pode adicionar amigos e lembrá-los de beber água, assim mostrará uma notificação no celular deles</br>
 
 ## 🤔Como será feito?🤔
 -Será desenvolvido usando Android studio pela linguagem Java
