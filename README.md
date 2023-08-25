@@ -1,4 +1,4 @@
-# 💧WaterWise💧
+<h1 align="center">💧WaterWise💧</h1>
 O WaterWise é o aplicativo que vai ter ajudar a manter hidratado, será um aplicativo intuitivo, que permite que você defina metas diárias de consumo de água com base nas suas necessidades pessoais.
 
 ## 🧰Algumas utilidades🧰 
@@ -10,3 +10,12 @@ O WaterWise é o aplicativo que vai ter ajudar a manter hidratado, será um apli
 
 ## 🤔Como será feito?🤔
 -Será desenvolvido usando Android studio pela linguagem Java
+
+##  👍Mais Requisitos:👍
+1-Autenticação</br>
+2-MVP</br>
+3-Extra UI</br>
+4-Notificação push</br>
+5-GreenDAO</br>
+6-Menu</br>
+7-Service</br>
